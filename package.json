@@ -1,10 +1,10 @@
 {
-  "name": "repogames-facebook-auth",
-  "version": "0.0.3",
+  "name": "react-facebook-auth-button",
+  "version": "0.0.2",
   "description": "Easy to use Facebook auth wrapper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/therepo90/repogames-facebook-auth.git"
+    "url": "git@github.com:therepo90/react-facebook-auth-button.git"
   },
   "main": "build/index.js",
   "peerDependencies": {

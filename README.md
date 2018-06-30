@@ -1,11 +1,11 @@
-# repogames-facebook-auth
+# react-facebook-auth-button
 Easy to use Facebook auth wrapper
 
 ## Usage:
 
 ```jsx
 import React, { Component } from 'react';
-import FacebookAuth from 'repogames-facebook-auth';
+import FacebookAuth from 'react-facebook-auth-button';
 
 class App extends Component {
   state = {
